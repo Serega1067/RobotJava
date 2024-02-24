@@ -8,7 +8,7 @@ public class Robot
     private double x = 0;
     private double y = 0;
     protected double course = 0;
-    private ArrayList<RobotLine> lines = ArrayList<RobotLine>();
+    private ArrayList<RobotLine> lines = new ArrayList<RobotLine>();
 
     public Robot(double x, double y)
     {

@@ -5,7 +5,7 @@ import edu.javacourse.robot.RobotLine;
 import java.awt.Graphics;
 import javax.swing.JComponent;
 
-public class RobotPathComponent
+public class RobotPathComponent extends JComponent
 {
     Robot robot;
 
